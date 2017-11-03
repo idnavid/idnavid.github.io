@@ -11,7 +11,7 @@ My PhD dissertation was on Multi-Speaker speech. A link to my dissertation can b
 
 Some code excerpts from my PhD work: 
 - [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)
-- UTDallas-CRSS Speaker Diarization tool-box (--> currently not available for download). 
+- UTDallas-CRSS Speaker Diarization tool-box (private). 
 
 Other: 
 - [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
