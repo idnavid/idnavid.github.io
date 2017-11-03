@@ -4,6 +4,7 @@ This page contains some of my contributions to projects. The main theme of all o
   - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
   - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
   - [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(private)
+  - [2D-Whitening for face recognition](void!)
 
 
 ### Previous Work
