@@ -17,3 +17,8 @@ Some code excerpts from my PhD work:
 Other: 
 - [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
 - [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
+
+
+
+### Notes
+- [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
