@@ -1,6 +1,7 @@
 ## Navid Shokouhi
-This page contains some of my contributions to projects. The main theme of all of these projects is to use Machine Learning in Signal Processing. 
+My name is Navid Shokouhi. I am a post-doctoral researcher at the University of Melbourne, Australia. My main research interest is in Signal Processing from a probabilistic percpective. 
 
+# Recent
   - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
   - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
   - [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(private)
@@ -22,3 +23,4 @@ Other:
 
 ### Notes
 - [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
+- [Notes on Akaike's Information Criterion](https://github.com/idnavid/selectOrder/blob/master/docs/deriving_aic/deriving_aic.pdf)
