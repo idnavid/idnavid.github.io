@@ -3,7 +3,7 @@ My name is Navid Shokouhi. I am a post-doctoral researcher at the University of 
 
 ### Recent
   - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
-  - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
+  - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(for students only)
   - [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(private)
   - 2D-Whitening for face recognition (link not available)
   - Speaker Diarization (link not available)
