@@ -26,6 +26,6 @@ Other:
 - Probability distributions
   - [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
   - [Chi-squared distributions - to be added](NA)
-- [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.html)
+- [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)
 - [Notes on Akaike's Information Criterion](https://github.com/idnavid/selectOrder/blob/master/docs/deriving_aic/deriving_aic.pdf) (private)
 
