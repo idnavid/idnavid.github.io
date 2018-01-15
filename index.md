@@ -1,5 +1,7 @@
 ## Navid Shokouhi
-Post-doctoral researcher at the University of Melbourne, Australia. My main research interest is Signal Processing from a probabilistic percpective. 
+####Post-doctoral researcher at the University of Melbourne, Australia. 
+
+My main research interest is Signal Processing from a probabilistic percpective. 
 
 ### Recent
   - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
