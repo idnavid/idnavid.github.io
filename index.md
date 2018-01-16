@@ -5,7 +5,7 @@
 
 
 ### &nbsp;&nbsp;Recent
-   - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
+   &nbsp;&nbsp;- [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
    - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
    - [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)
    - 2D-Whitening for face recognition (link not available)
