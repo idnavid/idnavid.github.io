@@ -1,10 +1,10 @@
 > ## Navid Shokouhi
-**Post-doctoral researcher at the University of Melbourne, Australia**
+> **Post-doctoral researcher at the University of Melbourne, Australia**
 
-&nbsp;My main research interest is Signal Processing from a probabilistic percpective.
+> My main research interest is Signal Processing from a probabilistic percpective.
 
 
->> ### &nbsp;&nbsp;Recent
+> ### &nbsp;&nbsp;Recent
 >> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
 
 >> [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
@@ -16,7 +16,7 @@
 >> Speaker Diarization (link not available)
 
 ------
-### &nbsp;&nbsp;Notes
+> ### &nbsp;&nbsp;Notes
 >> Probability distributions
 
 >>> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
@@ -29,11 +29,11 @@
  
  
 ------
-### &nbsp;&nbsp;Previous Work
+> ### &nbsp;&nbsp;Previous Work
 >> PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
 
->> **Some code excerpts from my PhD work: **
+>> **Some code excerpts from my PhD work:**
 
 >>> [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)
 
@@ -46,7 +46,7 @@
 >>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
 
 ------
-### &nbsp;&nbsp;Links
+> ### &nbsp;&nbsp;Links
 
 >> [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)
 
