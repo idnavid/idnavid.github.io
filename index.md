@@ -16,6 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Speaker Diarization (link not available)
 
 
+
 ### &nbsp;&nbsp;Previous Work
 &nbsp;&nbsp;&nbsp;&nbsp; PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
@@ -31,6 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
 
 
+
 ### &nbsp;&nbsp;Notes
 &nbsp;&nbsp;&nbsp;&nbsp; Probability distributions
 
@@ -41,6 +43,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Notes on Akaike's Information Criterion](https://github.com/idnavid/selectOrder/blob/master/docs/deriving_aic/deriving_aic.pdf) (private)
+
 
 
 
