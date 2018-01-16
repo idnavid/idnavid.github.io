@@ -6,7 +6,9 @@
 
 > ### &nbsp;&nbsp;Recent
 >> [PCA](na)
+
 >>> Robust PCA
+
 >>> Dimensionality estimation 
 ------
 > ### &nbsp;&nbsp;2017
