@@ -27,6 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UTDallas-CRSS Speaker Diarization tool-box (private). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Other: 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
 
 &nbsp;&nbsp;&nbsp;&nbsp; [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
