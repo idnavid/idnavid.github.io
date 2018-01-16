@@ -32,16 +32,24 @@
 ### &nbsp;&nbsp;Previous Work
 >>> PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
+
 >>> Some code excerpts from my PhD work: 
+
 >>>> [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)
+
 >>>> UTDallas-CRSS Speaker Diarization tool-box (private). 
 
 >>> Other: 
+
 >>>> [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
+
 >>>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
 
 ------
 ### &nbsp;&nbsp;Links
+
 >>> [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)
+
 >>> [LinkedIn](https://www.linkedin.com/in/navidshokouhi/)
+
 >>> <a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="208" height="58" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
