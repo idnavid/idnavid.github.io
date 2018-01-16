@@ -1,10 +1,10 @@
 ## Navid Shokouhi
 **Post-doctoral researcher at the University of Melbourne, Australia**
 
-<br/> My main research interest is Signal Processing from a probabilistic percpective.
+&nbsp;My main research interest is Signal Processing from a probabilistic percpective.
 
 
-### Recent
+### &nbsp;&nbsp;Recent
   - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
   - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
   - [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)
@@ -12,19 +12,19 @@
   - Speaker Diarization (link not available)
 
 
-### Previous Work
-My PhD dissertation was on Multi-Speaker speech. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
+### &nbsp;&nbsp;Previous Work
+&nbsp;&nbsp; PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
-Some code excerpts from my PhD work: 
+&nbsp;&nbsp; Some code excerpts from my PhD work: 
 - [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)
 - UTDallas-CRSS Speaker Diarization tool-box (private). 
 
-Other: 
+&nbsp;&nbsp; Other: 
 - [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
 - [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
 
 
-### Notes
+### &nbsp;&nbsp;Notes
 - Probability distributions
   - [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
   - [Chi-squared distributions - to be added](NA)
@@ -33,10 +33,10 @@ Other:
 
 
 
-### Links
+### &nbsp;&nbsp;Links
 
- [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)
+ &nbsp;&nbsp;[Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)
 
- [LinkedIn](https://www.linkedin.com/in/navidshokouhi/)
+ &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/navidshokouhi/)
  
- <a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="208" height="58" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+ &nbsp;&nbsp;<a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="208" height="58" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
