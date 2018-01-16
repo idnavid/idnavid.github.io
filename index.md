@@ -22,7 +22,7 @@ Other:
 - [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
 - [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
 
-
+<a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="208" height="58" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Notes
 - Probability distributions
