@@ -5,31 +5,31 @@
 
 
 ### &nbsp;&nbsp;Recent
-  - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
-  - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
-  - [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)
-  - 2D-Whitening for face recognition (link not available)
-  - Speaker Diarization (link not available)
+    - [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
+    - [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
+    - [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)
+    - 2D-Whitening for face recognition (link not available)
+    - Speaker Diarization (link not available)
 
 
 ### &nbsp;&nbsp;Previous Work
 &nbsp;&nbsp; PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
 &nbsp;&nbsp; Some code excerpts from my PhD work: 
-- [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)
-- UTDallas-CRSS Speaker Diarization tool-box (private). 
+  - [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)
+  - UTDallas-CRSS Speaker Diarization tool-box (private). 
 
 &nbsp;&nbsp; Other: 
-- [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
-- [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
+  - [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
+  - [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
 
 
 ### &nbsp;&nbsp;Notes
-- Probability distributions
-  - [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
-  - [Chi-squared distributions - to be added](NA)
-- [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)
-- [Notes on Akaike's Information Criterion](https://github.com/idnavid/selectOrder/blob/master/docs/deriving_aic/deriving_aic.pdf) (private)
+  - Probability distributions
+    - [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
+    - [Chi-squared distributions - to be added](NA)
+  - [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)
+  - [Notes on Akaike's Information Criterion](https://github.com/idnavid/selectOrder/blob/master/docs/deriving_aic/deriving_aic.pdf) (private)
 
 
 
