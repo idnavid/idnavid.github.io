@@ -5,58 +5,39 @@
 
 
 > ### &nbsp;&nbsp;Recent
->> [PCA](na)\
->>> Robust PCA
-
+>> [PCA](na)<br/>
+>>> Robust PCA<br/>
 >>> Dimensionality estimation 
 
 ------
 > ### &nbsp;&nbsp;2017
->> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)
-
->> [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)
-
->> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)
-
->> 2D-Whitening for face recognition (link not available)
-
+>> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
+>> [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)<br/>
+>> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)<br/>
+>> 2D-Whitening for face recognition (link not available)<br/>
 >> Speaker Diarization (link not available)
 
 ------
 > ### &nbsp;&nbsp;Notes
->> Probability distributions
-
->>> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
-
->>> [Chi-squared distributions - to be added](NA)
-
->> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)
-
+>> Probability distributions<br/>
+>>> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
+>>> [Chi-squared distributions - to be added](NA)<br/>
+>> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/selectOrder/blob/master/docs/deriving_aic/deriving_aic.pdf) (private)
- 
  
 ------
 > ### &nbsp;&nbsp;Previous Work
->> PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
-
-
->> **Some code excerpts from my PhD work:**
-
->>> [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)
-
->>> UTDallas-CRSS Speaker Diarization tool-box (private). 
-
->> **Other:** 
-
->>> [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)
-
+>> PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). <br/>
+>> **Some code excerpts from my PhD work:**<br/>
+>>> [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)<br/>
+>>> UTDallas-CRSS Speaker Diarization tool-box (private). <br/>
+>> **Other:** <br/>
+>>> [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)<br/>
 >>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
 
 ------
-> ### &nbsp;&nbsp;Links
-
->> [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)
-
->> [LinkedIn](https://www.linkedin.com/in/navidshokouhi/)
-
+> ### &nbsp;&nbsp;Links<br/>
+>> [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)<br/>
+>> [LinkedIn](https://www.linkedin.com/in/navidshokouhi/)<br/>
 >> <a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="208" height="58" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
