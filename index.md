@@ -1,12 +1,11 @@
 > ## Navid Shokouhi
 > **Post-doctoral researcher at the University of Melbourne, Australia**
 
-> My main research interest is Signal Processing from a probabilistic percpective.
+> My research focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
 
 
 > ### &nbsp;&nbsp;Recent
->> [PCA](na)
-
+>> [PCA](na)\
 >>> Robust PCA
 
 >>> Dimensionality estimation 
