@@ -5,7 +5,8 @@
 
 
 > ### &nbsp;&nbsp;Recent
->> [PCA](na) >>> Robust PCA<br/>
+>> [PCA](na)
+>>> Robust PCA<br/>
 >>> Dimensionality estimation 
 
 ------
@@ -18,7 +19,7 @@
 
 ------
 > ### &nbsp;&nbsp;Notes
->> Probability distributions<br/>
+>> Probability distributions
 >>> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
 >>> [Chi-squared distributions - to be added](NA)
 
