@@ -23,7 +23,7 @@
 >> [Chi-squared distributions - to be added](NA)<br/>
 >> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/selectOrder/blob/master/docs/deriving_aic/deriving_aic.pdf)<br/>
->> [Calculating the Cummulative Match Curve (code)](tbd)<br/>
+>> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
  
 ------
 > ### &nbsp;&nbsp;Previous Work
