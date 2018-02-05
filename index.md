@@ -5,7 +5,7 @@
 
 
 > ### &nbsp;&nbsp;Recent
->>[Sparse Canonical Correlation Analysis]<br/>
+>>[Sparse Canonical Correlation Analysis](na)<br/>
 >> [PCA](na)
 >>> Robust PCA<br/>
 >>> Dimensionality estimation 
