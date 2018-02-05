@@ -6,8 +6,8 @@
 
 > ### &nbsp;&nbsp;Recent
 >>[Sparse Canonical Correlation Analysis](na)<br/>
->> [Sparse and Robust PCA](na)
->> [Dimensionality estimation for PCA]
+>> [Sparse and Robust PCA](na)<br/>
+>> [Dimensionality estimation for PCA](na)<br/>
 
 ------
 > ### &nbsp;&nbsp;2017
