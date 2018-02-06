@@ -5,7 +5,7 @@
 
 
 > ### &nbsp;&nbsp;Recent
->>[Sparse Canonical Correlation Analysis](na)<br/>
+>>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)<br/>
 >> [Sparse and Robust PCA](na)<br/>
 >> [Dimensionality estimation for PCA](na)<br/>
 
