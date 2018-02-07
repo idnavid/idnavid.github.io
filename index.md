@@ -35,8 +35,8 @@
 
 >> **Other:**
 >>> [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)<br/>
->>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)
->>> [Speaker verification tools (additions to Kaldi)](https://github.com/idnavid/sre2016)
+>>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)<br/>
+>>> [Speaker verification tools (code additions to Kaldi)](https://github.com/idnavid/sre2016)
 ------
 > ### &nbsp;&nbsp;Links<br/>
 >> [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)<br/>
