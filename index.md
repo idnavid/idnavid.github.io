@@ -31,7 +31,7 @@
 
 >> **Some code excerpts from my PhD work:**
 >>> [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)<br/>
->>> UTDallas-CRSS Speaker Diarization tool-box (private).
+>>> [UTDallas-CRSS Speaker Diarization tool-box](https://github.com/cyu0913/CRSS-SpkrDiar) (private)<br/>
 >>> [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)<br/>
 >>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)<br/>
 >>> [Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations)](https://github.com/idnavid/sre2016)
