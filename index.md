@@ -14,7 +14,7 @@
 >> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
 >> [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)<br/>
 >> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)<br/>
->> 2D-Whitening for face recognition (link not available)<br/>
+>> [2D-Whitening for face recognition](http://ieeexplore.ieee.org/document/8290677/)<br/>
 >> [Speaker Diarization (python)](https://github.com/idnavid/spkr_diarization)
 
 ------
