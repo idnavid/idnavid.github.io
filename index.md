@@ -24,7 +24,7 @@
 >> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
 >> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
->> [Cross-validation from an information-theoretic perspective](na)<br/>
+>> [Cross-validation from an information-theoretic perspective - to be added](na)<br/>
  
 ------
 > ### &nbsp;&nbsp;Previous Work
