@@ -6,7 +6,7 @@
 
 > ### &nbsp;&nbsp;Recent
 >>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)<br/>
->>[Robust Recursive Least Squares]
+>>[Robust Recursive Least Squares]()
 ------
 > ### &nbsp;&nbsp;2017
 >> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
