@@ -21,7 +21,7 @@
 >> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
 >> [Chi-squared distributions - to be added](NA)<br/>
 >> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
-    [Example: Sparse Probabilistic PCA using Variational Bayes](na)<br/>
+    --> [Example: Sparse Probabilistic PCA using Variational Bayes](na)<br/>
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
 >> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
 >> [Cross-validation from an information-theoretic perspective - to be added](na)<br/>
@@ -42,6 +42,5 @@
 >> [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)<br/>
 >> [LinkedIn](https://www.linkedin.com/in/navidshokouhi/)<br/>
 >> <a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="208" height="58" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
 
 
