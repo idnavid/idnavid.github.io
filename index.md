@@ -41,8 +41,8 @@
 
 ------
 > ### &nbsp;&nbsp;Links<br/>
->> [Google Scholar](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)<br/>
+>> [<img src="https://github.com/idnavid/idnavid.github.io/blob/master/figures/gscholar.png" width="20%">](https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao)<br/>
 >> [LinkedIn](https://www.linkedin.com/in/navidshokouhi/)<br/>
->> <a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="208" height="58" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+>> <a href="https://stackexchange.com/users/1800970/idnavid"><img src="https://stackexchange.com/users/flair/1800970.png" width="180" height="48" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 
