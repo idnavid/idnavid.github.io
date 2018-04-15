@@ -6,8 +6,8 @@
 
 > ### &nbsp;&nbsp;Recent
 >>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)<br/>
->>[Sparse Principal Component Analysis](na)<br/>
->>[Robust Recursive Least Squares](na)
+>>[Sparse Principal Component Analysis](https://github.com/idnavid/sparsepca_paper_tex)<br/>
+>>[Robust Recursive Least Squares](https://github.com/idnavid/RBFadapt)
 
 ------
 > ### &nbsp;&nbsp;2017
