@@ -1,4 +1,5 @@
-## **Navid Shokouhi <br/> Post-doctoral researcher at the University of Melbourne, Australia**
+### Navid Shokouhi 
+**Post-doctoral researcher at the University of Melbourne, Australia**
 
 My research focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
 
