@@ -1,17 +1,17 @@
-> ## Navid Shokouhi
-> **Post-doctoral researcher at the University of Melbourne, Australia**
+## Navid Shokouhi
+**Post-doctoral researcher at the University of Melbourne, Australia**
 
-> My research focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
+My research focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
 
-> Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you need access to some of the unpublished material. 
+Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you need access to some of the unpublished material. 
 
-> ### &nbsp;&nbsp;Recent
+### &nbsp;&nbsp;Recent
 >>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)<br/>
 >>[Sparse Principal Component Analysis](https://github.com/idnavid/sparsepca_paper_tex)<br/>
 >>[Robust Recursive Least Squares](https://github.com/idnavid/RBFadapt)
 
 ------
-> ### &nbsp;&nbsp;2017
+### &nbsp;&nbsp;2017
 >> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
 >> [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)<br/>
 >> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(available to ELEN90076 students)<br/>
@@ -19,7 +19,7 @@
 >> [Speaker Diarization (python)](https://github.com/idnavid/spkr_diarization)
 
 ------
-> ### &nbsp;&nbsp;Notes
+### &nbsp;&nbsp;Notes
 >> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
 >> [Chi-squared distributions - to be added](NA)<br/>
 >> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
@@ -29,7 +29,7 @@
 >> [Cross-validation from an information-theoretic perspective - to be added](na)<br/>
  
 ------
-> ### &nbsp;&nbsp;Previous Work
+### &nbsp;&nbsp;Previous Work
 >> PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
 >> **Some code excerpts from my PhD work:**
@@ -40,7 +40,7 @@
 >>> [Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations)](https://github.com/idnavid/sre2016)
 
 ------
-> ### &nbsp;&nbsp;Links<br/>
+### &nbsp;&nbsp;Links<br/>
 >> <a href="https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao"><img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_24dp.png" width="180" height="30" /></a> <br/>
 >> <a href="https://www.linkedin.com/in/navidshokouhi/"><img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png" width="200" height="50" /></a> <br/>
 >> <a href="https://stackexchange.com/users/1800970/idnavid?tab=accounts"><img src="https://stackexchange.com/users/flair/1800970.png" width="180" height="48" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
