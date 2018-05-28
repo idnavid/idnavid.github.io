@@ -20,7 +20,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >> [Speaker Diarization (python)](https://github.com/idnavid/spkr_diarization)
 
 ------
-#### &nbsp;&nbsp;Previous Work (up to 2016)
+#### &nbsp;&nbsp;Previous Work (2011-2016)
 >> PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
 >> **Some code excerpts from my PhD work:**
