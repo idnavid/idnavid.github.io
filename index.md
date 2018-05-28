@@ -20,17 +20,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >> [Speaker Diarization (python)](https://github.com/idnavid/spkr_diarization)
 
 ------
-#### &nbsp;&nbsp;Notes
->> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
->> [Chi-squared distributions - to be added](NA)<br/>
->> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
-   --- [Example: Sparse Probabilistic PCA using Variational Bayes](na)<br/>
->> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
->> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
->> [Cross-validation from an information-theoretic perspective - to be added](na)<br/>
- 
-------
-#### &nbsp;&nbsp;Previous Work
+#### &nbsp;&nbsp;Previous Work (up to 2016)
 >> PhD dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf). 
 
 >> **Some code excerpts from my PhD work:**
@@ -40,6 +30,16 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)<br/>
 >>> [Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations)](https://github.com/idnavid/sre2016)
 
+------
+#### &nbsp;&nbsp;Notes
+>> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
+>> [Chi-squared distributions - to be added](NA)<br/>
+>> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
+   --- [Example: Sparse Probabilistic PCA using Variational Bayes](na)<br/>
+>> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
+>> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
+>> [Cross-validation from an information-theoretic perspective - to be added](na)<br/>
+ 
 ------
 #### &nbsp;&nbsp;Links<br/>
 >> <a href="https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao"><img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_24dp.png" width="180" height="30" /></a> <br/>
