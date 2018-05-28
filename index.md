@@ -6,7 +6,7 @@ My research focuses on Signal Processing from a probabilistic percpective (Machi
 Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you need access to some of the unpublished material. 
 
 #### &nbsp;&nbsp;Recent
->>[Multi-target Speaker Identification - MCE challenge]()<br/>
+>>[Multi-target Speaker Identification - 2018 MCE challenge]()<br/>
 >>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)<br/>
 >>[Sparse Principal Component Analysis](https://github.com/idnavid/sparse_PCA)<br/>
 >>[Robust Recursive Least Squares](https://github.com/idnavid/RBFadapt)
