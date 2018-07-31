@@ -6,7 +6,7 @@ My research focuses on Signal Processing from a probabilistic percpective (Machi
 Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you would like access to some of the unpublished material. 
 
 #### &nbsp;&nbsp;Recent
->>[model order selection - CCA extension]()<br/>
+>>[model order selection - CCA version]()<br/>
 >>[Robust HRF estimation (fNIRS)](https://github.com/idnavid/robustHRF)(private)<br/>
 >>[Multi-target Speaker Identification - 2018 MCE challenge]()(private)<br/>
 >>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)(private)<br/>
