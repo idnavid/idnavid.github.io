@@ -35,12 +35,12 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 ------
 #### &nbsp;&nbsp;Notes
 >> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
->> [Chi-squared distributions - to be added](NA)<br/>
+>> [Chi-squared distributions (in progress)](NA)<br/>
 >> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
-   --- [Example: Sparse Probabilistic PCA using Variational Bayes](na)<br/>
+   --- [Example: Sparse Probabilistic PCA using Variational Bayes (in progress)](na)<br/>
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
 >> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
->> [Cross-validation from an information-theoretic perspective - to be added](na)<br/>
+>> [Cross-validation from an information-theoretic perspective (in progress)](na)<br/>
 >> [Notes on Geometric Interpretation of CCA](https://github.com/idnavid/misc/blob/master/cca_geometricinterp.ipynb)<br/>
  
 ------
