@@ -6,7 +6,8 @@ My research focuses on Signal Processing from a probabilistic percpective (Machi
 Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you would like access to some of the unpublished material. 
 
 #### &nbsp;&nbsp;Recent
->>[model order selection for CCA](https://github.com/idnavid/robustHRF)(private)<br/>
+>>[model order selection for CCA](https://github.com/idnavid/selectOrder_public)<br/>
+  ---[private repository](https://github.com/idnavid/selectOrder)<br/>
 >>[Robust HRF estimation (fNIRS)](https://github.com/idnavid/robustHRF)(private)<br/>
 >>[Multi-target Speaker Identification - 2018 MCE challenge]()(private)<br/>
 >>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)(private)<br/>
@@ -16,7 +17,8 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 ------
 #### &nbsp;&nbsp;2017
 >> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
->> [model order selection](https://github.com/idnavid/selectOrder/blob/master/notes/readme.md)(private)<br/>
+>> [model order selection](https://github.com/idnavid/selectOrder_public)<br/>
+  ---[private repository](https://github.com/idnavid/selectOrder)<br/>
 >> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(for ELEN90076 students)<br/>
 >> [2D-Whitening for face recognition](http://ieeexplore.ieee.org/document/8290677/)<br/>
 >> [Speaker Diarization (python)](https://github.com/idnavid/spkr_diarization)
