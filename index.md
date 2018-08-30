@@ -8,6 +8,7 @@ My research focuses on Signal Processing from a probabilistic percpective (Machi
 
 Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you would like access to some of the unpublished material.
 
+## Projects
 <details><summary>
    Recent
 </summary>
@@ -42,10 +43,11 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 </details>
 
 ------
+## Teaching
 <details><summary>
-   Teaching
+   Melbourne Univ
 </summary>
-   <a href="https://github.com/idnavid/imageprocessing_elen90076">Digital Image Processing ELEN90076-Melbourne Univ.</a>
+   <a href="https://github.com/idnavid/imageprocessing_elen90076">Digital Image Processing ELEN90076</a>
 </details>
 
 ------
