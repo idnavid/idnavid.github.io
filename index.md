@@ -13,7 +13,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 </summary>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
    <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
-   <a href="https://github.com/idnavid/robustHRF"Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
+   <a href="https://github.com/idnavid/robustHRF">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
    <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
    <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 </details>
@@ -33,20 +33,18 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
    Previous Work (2011-2016)
 </summary>
 PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found <a href="https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf">here.</a><br/>
+   Some code excerpts from my PhD work:
+   Overlapped Speech Detection <a href="https://github.com/idnavid/pyknograms">(code)</a> and <a href="https://ieeexplore.ieee.org/document/7872488/">(paper)</a><br/>
+    <a href="https://github.com/cyu0913/CRSS-SpkrDiar">UTDallas-CRSS Speaker Diarization tool-box -- (private)</a><br/>
+    <a href="https://github.com/idnavid/speech_activity_detection">Speech Activity Detection for UT-Dallas projects</a><br/>
+    <a href="https://github.com/idnavid/py_vad_tool">light-weight Speech Activity Detection</a><br/>
+    <a href="https://github.com/idnavid/sre2016">Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations</a><br/>   
 </details>
 
 <details><summary>
    Teaching
 </summary>
-   <a href="https://github.com/idnavid/imageprocessing_elen90076"Digital Image Processing ELEN90076-Melbourne Univ.</a>
-</details>
-
->> **Some code excerpts from my PhD work:**
->>> [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)<br/>
->>> [UTDallas-CRSS Speaker Diarization tool-box](https://github.com/cyu0913/CRSS-SpkrDiar) (private)<br/>
->>> [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)<br/>
->>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)<br/>
->>> [Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations)](https://github.com/idnavid/sre2016)
+   <a href="https://github.com/idnavid/imageprocessing_elen90076">Digital Image Processing ELEN90076-Melbourne Univ.</a>
 </details>
 
 ------
