@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Navid Shokouhi
-subtitle: Postdoctoral Research, University of Melbourne, Australia
+subtitle: 
 ---
 
 My research focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
