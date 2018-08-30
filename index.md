@@ -20,15 +20,19 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 </details>
 
 ------
-#### &nbsp;&nbsp;2017
->> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
+<details><summary>
+   2017
+</summary>>> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
 >> [model order selection](https://github.com/idnavid/selectOrder_public)<br/>
 >> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(for ELEN90076 students)<br/>
 >> [2D-Whitening for face recognition](http://ieeexplore.ieee.org/document/8290677/)<br/>
 >> [Speaker Diarization (python)](https://github.com/idnavid/spkr_diarization)
+</details>
 
 ------
-#### &nbsp;&nbsp;Previous Work (2011-2016)
+<details><summary>
+   Previous Work (2011-2016)
+</summary>
 >> PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf).
 
 >> **Some code excerpts from my PhD work:**
@@ -37,6 +41,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >>> [Speech Activity Detection for UT-Dallas projects](https://github.com/idnavid/speech_activity_detection)<br/>
 >>>  [light-weight Speech Activity Detection](https://github.com/idnavid/py_vad_tool)<br/>
 >>> [Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations)](https://github.com/idnavid/sre2016)
+</details>
 
 ------
 #### &nbsp;&nbsp;Notes
