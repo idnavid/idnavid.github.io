@@ -69,7 +69,7 @@ social-network-links:
   email: "navid.shokouhi@unimelb.edu.au"
   github: idnavid
 #  reddit: yourname
-  google-plus: "https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao"
+#  google-plus: "https://scholar.google.com/citations?user=DHxzPt8AAAAJ&hl=en&oi=ao"
   linkedin: navidshokouhi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -86,7 +86,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  google: true
+  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
