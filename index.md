@@ -8,7 +8,7 @@ My research focuses on Signal Processing from a probabilistic percpective (Machi
 
 Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you would like access to some of the unpublished material.
 
-## Projects
+## Projects something
 Click to expand. 
 <details><summary>
    Recent
