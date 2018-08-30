@@ -13,7 +13,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 </summary>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
    <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
-   <a href=" "Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
+   <a href="https://github.com/idnavid/robustHRF"Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
    <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
    <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 </details>
@@ -38,7 +38,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 <details><summary>
    Teaching
 </summary>
-   <a href="https://github.com/idnavid/imageprocessing_elen90076" Image Processing Course ELEN90076-Melbourne Univ. -- (private)</a>
+   <a href="https://github.com/idnavid/imageprocessing_elen90076"Digital Image Processing ELEN90076-Melbourne Univ.</a>
 </details>
 
 >> **Some code excerpts from my PhD work:**
