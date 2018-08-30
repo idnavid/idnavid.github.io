@@ -10,9 +10,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ## Projects
 Click to expand. 
-<details><summary>
-   Recent
-</summary>
+>><details><summary>Recent</summary>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
    <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
    <a href="https://github.com/idnavid/robustHRF">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
