@@ -13,7 +13,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 </summary>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
    <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
-   <a href=" ">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
+   <a href=" "Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
    <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
    <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 </details>
@@ -22,18 +22,24 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 <details><summary>
    2017
 </summary>
->> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
->> [model order selection](https://github.com/idnavid/selectOrder_public)<br/>
->> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(for ELEN90076 students)<br/>
->> [2D-Whitening for face recognition](http://ieeexplore.ieee.org/document/8290677/)<br/>
->> [Speaker Diarization (python)](https://github.com/idnavid/spkr_diarization)
+   <a href="https://github.com/idnavid/RBFadapt">RBF Neural Networks -- (private)</a><br/>
+   <a href="https://github.com/idnavid/selectOrder_public">model order selection</a><br/>
+   <a href="http://ieeexplore.ieee.org/document/8290677/">2D-Whitening for face recognition</a><br/>
+   <a href="https://github.com/idnavid/spkr_diarization">Speaker Diarization (python)</a><br/>
 </details>
 
 ------
 <details><summary>
    Previous Work (2011-2016)
 </summary>
->> PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found [here](https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf).
+PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found <a href="https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf">here.</a><br/>
+</details>
+
+<details><summary>
+   Teaching
+</summary>
+   <a href="https://github.com/idnavid/imageprocessing_elen90076"Image Processing Course ELEN90076-Melbourne Univ. -- (private)</a><br/>
+</details>
 
 >> **Some code excerpts from my PhD work:**
 >>> [Overlapped Speech Detection](https://github.com/idnavid/pyknograms)<br/>
