@@ -48,4 +48,5 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ------
 #### &nbsp;&nbsp;Other<br/>
+>> Online Stack Exchange activity
 >> <a href="https://stackexchange.com/users/1800970/idnavid?tab=accounts"><img src="https://stackexchange.com/users/flair/1800970.png" width="180" height="48" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> <br/>
