@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Irina Gaynanova
-subtitle: Assistant Professor, Department of Statistics, Texas A&M University
+title: Navid Shokouhi
+subtitle: Postdoctoral Research, University of Melbourne, Australia
 ---
 
 ### Navid Shokouhi 
