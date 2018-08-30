@@ -38,7 +38,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 <details><summary>
    Teaching
 </summary>
-   <a href="https://github.com/idnavid/imageprocessing_elen90076" Image Processing Course ELEN90076-Melbourne Univ. -- (private)</a><br/>
+   <a href="https://github.com/idnavid/imageprocessing_elen90076" Image Processing Course ELEN90076-Melbourne Univ. -- (private)</a>
 </details>
 
 >> **Some code excerpts from my PhD work:**
