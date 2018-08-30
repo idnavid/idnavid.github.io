@@ -11,9 +11,8 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 <details><summary>
    Recent
 </summary>
-   <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a>
->> [model order selection for CCA](https://github.com/idnavid/selectOrder_public)<br/>
->>[Robust HRF estimation (fNIRS)](https://github.com/idnavid/robustHRF)(private)<br/>
+   <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
+   <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
 >>[Multi-target Speaker Identification - 2018 MCE challenge]()(private)<br/>
 >>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)(private)<br/>
 >>[Sparse Principal Component Analysis](https://github.com/idnavid/sparse_PCA)(private)<br/>
