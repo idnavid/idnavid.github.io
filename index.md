@@ -13,16 +13,16 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 </summary>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
    <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
->>[Multi-target Speaker Identification - 2018 MCE challenge]()(private)<br/>
->>[Sparse Canonical Correlation Analysis](https://github.com/idnavid/sparse_CCA)(private)<br/>
->>[Sparse Principal Component Analysis](https://github.com/idnavid/sparse_PCA)(private)<br/>
->>[Robust Recursive Least Squares](https://github.com/idnavid/RBFadapt)(private)
+   <a href=" ">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
+   <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
+   <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 </details>
 
 ------
 <details><summary>
    2017
-</summary>>> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
+</summary>
+>> [RBF Neural Networks](https://github.com/idnavid/RBFadapt)(private)<br/>
 >> [model order selection](https://github.com/idnavid/selectOrder_public)<br/>
 >> [Image Processing Course (ELEN90076)](https://github.com/idnavid/imageprocessing_elen90076)(for ELEN90076 students)<br/>
 >> [2D-Whitening for face recognition](http://ieeexplore.ieee.org/document/8290677/)<br/>
