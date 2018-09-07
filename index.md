@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: Navid Shokouhi
+subtitle: 
 ---
 # Navid Shokouhi
 *Postdoctoral researcher, The University of Melbourne*
