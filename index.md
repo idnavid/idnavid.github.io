@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Navid Shokouhi
-subtitle: 
+title: 
+subtitle: Navid Shokouhi
 ---
 
 My research focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
