@@ -3,7 +3,7 @@ layout: page
 title: 
 subtitle:  
 ---
-**Navid Shokouhi**
+**Navid Shokouhi**<br/>
 *Postdoctoral researcher, The University of Melbourne*
 
 This page contains information and code related to my research. My work focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
