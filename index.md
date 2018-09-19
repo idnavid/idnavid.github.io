@@ -54,6 +54,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 
 ------
 #### &nbsp;&nbsp;Notes
+>> [Canonical Correlation Coefficients as a Measure for Affine Similarity](https://github.com/idnavid/misc/blob/master/comparingSimilarityMeasures.ipynb)<br/>
 >> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
 >> [Chi-squared distributions (in progress)](NA)<br/>
 >> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
