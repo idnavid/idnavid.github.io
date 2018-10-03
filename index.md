@@ -15,17 +15,17 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
    Recent
 </summary>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
-   <a href="https://github.com/idnavid/robustHRF_private">Robust HRF estimation (fNIRS) -- (private)</a><br/>
-   <a href="https://github.com/idnavid/multispeaker_openset_private">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
-   <a href="https://github.com/idnavid/sparse_CCA_private">Sparse Canonical Correlation Analysis -- (private)</a><br/>
-   <a href="https://github.com/idnavid/sparse_PCA_private">Sparse Principal Component Analysis -- (private)</a><br/>
+   <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
+   <a href="https://github.com/idnavid/multispeaker_openset">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
+   <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
+   <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 </details>
 
 ------
 <details><summary>
    2017
 </summary>
-   <a href="https://github.com/idnavid/RBFadapt_private">RBF Neural Networks -- (private)</a><br/>
+   <a href="https://github.com/idnavid/RBFadapt">RBF Neural Networks -- (private)</a><br/>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection</a><br/>
    <a href="http://ieeexplore.ieee.org/document/8290677/">2D-Whitening for face recognition</a><br/>
    <a href="https://github.com/idnavid/spkr_diarization">Speaker Diarization (python)</a><br/>
@@ -38,7 +38,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found <a href="https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf">here.</a><br/>
    Some code excerpts from my PhD work:
    Overlapped Speech Detection <a href="https://github.com/idnavid/pyknograms">(code)</a> and <a href="https://ieeexplore.ieee.org/document/7872488/">(paper)</a><br/>
-    <a href="https://github.com/cyu0913/CRSS-SpkrDiar_private">UTDallas-CRSS Speaker Diarization tool-box -- (private)</a><br/>
+    <a href="https://github.com/cyu0913/CRSS-SpkrDiar">UTDallas-CRSS Speaker Diarization tool-box -- (private)</a><br/>
     <a href="https://github.com/idnavid/speech_activity_detection">Speech Activity Detection for UT-Dallas projects</a><br/>
     <a href="https://github.com/idnavid/py_vad_tool">light-weight Speech Activity Detection</a><br/>
     <a href="https://github.com/idnavid/sre2016">Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations</a><br/>   
@@ -49,7 +49,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 <details><summary>
    Melbourne Univ
 </summary>
-   <a href="https://github.com/idnavid/imageprocessing_elen90076_private">Digital Image Processing ELEN90076</a> -- Only available for ELEN90076 students. 
+   <a href="https://github.com/idnavid/imageprocessing_elen90076">Digital Image Processing ELEN90076</a> -- Only available for ELEN90076 students. 
 </details>
 
 ------
