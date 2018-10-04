@@ -11,15 +11,13 @@ This page contains information and code related to my research. My work focuses 
 Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you would like access to some of the unpublished material.
 
 ### Projects<sub><sup> (click to expand)</sup></sub>
-<details><summary>
-   Recent
-</summary>
-   <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
-   <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
-   <a href="https://github.com/idnavid/multispeaker_openset">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
-   <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
-   <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
-</details>
+
+**Recent**<br/>
+>>   <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
+>>   <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
+>>   <a href="https://github.com/idnavid/multispeaker_openset">Multi-target Speaker Identification - 2018 MCE challenge -- (private)</a><br/>
+>>   <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
+>>   <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 
 ------
 <details><summary>
