@@ -54,7 +54,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 >> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
 >> [Chi-squared distributions (in progress)](NA)<br/>
 >> [Some notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
-   --- [Example: Sparse Probabilistic PCA using Variational Bayes (in progress)](na)<br/>
+   &nbsp&nbsp&nbsp&nbsp [Example: Sparse Probabilistic PCA using Variational Bayes (in progress)](na)<br/>
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
 >> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
 >> [Cross-validation from an information-theoretic perspective (in progress)](na)<br/>
