@@ -24,7 +24,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 <details><summary>
    2017
 </summary>
-   <a href="https://github.com/idnavid/RBFadapt">RBF Neural Networks -- (private)</a><br/>
+>>   <a href="https://github.com/idnavid/RBFadapt">RBF Neural Networks -- (private)</a><br/>
    <a href="https://github.com/idnavid/selectOrder_public">model order selection</a><br/>
    <a href="http://ieeexplore.ieee.org/document/8290677/">2D-Whitening for face recognition</a><br/>
    <a href="https://github.com/idnavid/spkr_diarization">Speaker Diarization (python)</a><br/>
