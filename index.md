@@ -12,7 +12,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ------
 
-### Projects<sub><sup> (click to expand)</sup></sub>
+### Projects
 
 **Recent**<br/>
 >>   <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
@@ -21,7 +21,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >>   <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
 >>   <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 
-<details><summary>
+<details><summary> <sub><sup>(click to expand)</sup></sub>
    <strong>2017</strong>
 </summary>
 <a href="https://github.com/idnavid/RBFadapt">RBF Neural Networks -- (private)</a><br/>
@@ -30,7 +30,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 <a href="https://github.com/idnavid/spkr_diarization">Speaker Diarization (python)</a><br/>
 </details>
 
-<details><summary>
+<details><summary> <sub><sup>(click to expand)</sup></sub>
   <strong>Previous Work (2011-2016)</strong>
 </summary>
 PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found <a href="https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf">here.</a><br/>
