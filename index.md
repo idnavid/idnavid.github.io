@@ -13,8 +13,6 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 ------
 
 ### Projects
-<sub><sup>(click to expand)</sup></sub>
-
 **Recent**<br/>
 >>   <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
 >>   <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
