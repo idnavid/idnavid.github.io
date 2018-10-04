@@ -47,7 +47,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 >> <a href="https://github.com/idnavid/imageprocessing_elen90076">Digital Image Processing ELEN90076</a>, The Univ. of Melbourne, 2017
 
 ------
-#### &nbsp;&nbsp;Notes
+### Notes
 >> [Canonical Correlation Coefficients as a Measure for Affine Similarity](https://github.com/idnavid/misc/blob/master/comparingSimilarityMeasures.ipynb)<br/>
 >> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
 >> [Chi-squared distributions (in progress)](NA)<br/>
