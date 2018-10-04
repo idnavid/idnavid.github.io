@@ -21,6 +21,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >>   <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
 >>   <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 
+<br/>
 <details><summary>
    <strong>2017</strong>
 </summary>
@@ -30,6 +31,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 &nbsp&nbsp&nbsp&nbsp<a href="https://github.com/idnavid/spkr_diarization">Speaker Diarization (python)</a><br/>
 </details>
 
+<br/>
 <details><summary>
   <strong>Previous Work (2011-2016)</strong>
 </summary>
