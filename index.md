@@ -6,9 +6,9 @@ subtitle:
 **<span style="font-size:larger;">Navid Shokouhi</span>**<br/>
 *<sup>Postdoctoral Researcher, The University of Melbourne</sup>*
 
-This page contains information and code related to my research. My work focuses on Signal Processing from a probabilistic percpective (Machine Learning for Signal Processing).
+My work focuses on Signal Processing from a probabilistic percpective, sometimes called statistical signal processing. I'm primarily interested in studying machine learning algorithms from a statistical signal processing perspective.
 
-Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may still be private, as their related papers are still pending publication. Feel free to reach out if you would like access to some of the unpublished material.
+Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may be private, as their related papers are still pending publication. Feel free to reach out if you would like access to some of the unpublished material.
 
 ------
 
