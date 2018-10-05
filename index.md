@@ -47,7 +47,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 
 ------
 ### Notes
->> [The asymptotic difference between the maximum likelihod and the empirical maximum likelihood](https://github.com/idnavid/misc/blob/master/LawOfIterLogs.ipynb)<br/>
+>> [Asymptotic difference between the ML and the empirical ML](https://github.com/idnavid/misc/blob/master/LawOfIterLogs.ipynb)<br/>
 >> [Canonical Correlation Coefficients as a Measure for Affine Similarity](https://github.com/idnavid/misc/blob/master/comparingSimilarityMeasures.ipynb)<br/>
 >> [On the significance of Gaussian distributions](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
 >> [Chi-squared distributions (in progress)](NA)<br/>
