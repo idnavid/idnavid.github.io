@@ -48,9 +48,9 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 ------
 ### Notes
 >> [Asymptotic difference between ML and empirical ML](https://github.com/idnavid/misc/blob/master/LawOfIterLogs.ipynb)<br/>
->> [Canonical Correlation Coefficients as a Measure of Affine Similarity](https://github.com/idnavid/misc/blob/master/comparingSimilarityMeasures.ipynb)<br/>
+>> [Canonical correlation coefficients as a measure of affine similarity](https://github.com/idnavid/misc/blob/master/comparingSimilarityMeasures.ipynb)<br/>
 >> [Note on the significance of Gaussian distributions from an ML perspective](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)<br/>
->> [Chi-squared distributions (in progress)](NA)<br/>
+>> [$\chi^2$ distributions (in progress)](NA)<br/>
 >> [Notes on fundamentals of Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)<br/>
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
 >> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
