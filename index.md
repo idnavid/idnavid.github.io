@@ -55,7 +55,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 >> [Notes on Akaike's Information Criterion](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)<br/>
 >> [Calculating the Cummulative Match Curve (code)](https://github.com/idnavid/misc/blob/master/plot_cmc.m)<br/>
 >> [Cross-validation from an information-theoretic perspective (in progress)](na)<br/>
->> [Notes on Geometric Interpretation of CCA](https://github.com/idnavid/misc/blob/master/cca_geometricinterp.ipynb)<br/>
+>> [Note on CCA: geometric interpretations](https://github.com/idnavid/misc/blob/master/cca_geometricinterp.ipynb)<br/>
 
 ------
 #### &nbsp;&nbsp;Other<br/>
