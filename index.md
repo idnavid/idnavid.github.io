@@ -35,7 +35,6 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 >> <a href="https://github.com/idnavid/speech_activity_detection">Speech Activity Detection for UT-Dallas projects</a><br/>
 >> <a href="https://github.com/idnavid/py_vad_tool">light-weight Speech Activity Detection</a><br/>
 >> <a href="https://github.com/idnavid/sre2016">Speaker verification (includes code additions to Kaldi: NDA, Clustering, DCF calculations</a><br/>   
->> </details>
 
 ------
 ### Teaching
