@@ -14,7 +14,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ### Projects
 **Recent**<br/>
->>   <a href="https://github.com/idnavid/sparse_CCA">Sparse Canonical Correlation Analysis -- (private)</a><br/>
+>>   <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid">Sparse Canonical Correlation Analysis -- (private)</a><br/>
 >>   <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
 >>   <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
 >>   <a href="https://github.com/idnavid/multispeaker_openset">Multi-target Speaker Identification -- (private)</a><br/>
