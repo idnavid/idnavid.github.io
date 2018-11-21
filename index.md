@@ -14,6 +14,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ### Projects
 > **Recent**<br/>
+>> <a href="empty">Sparse representation using Dictionary Learning -- (private)</a><br/>
 >> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw">Concurrent Spatial and Temporal alignment of multimodal data -- (private)</a><br/>
 >> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid">Sparse Canonical Correlation Analysis -- (private)</a><br/>
 >> <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
