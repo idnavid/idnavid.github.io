@@ -44,6 +44,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 
 ------
 ### Notes
+>> [Short note on the geometric interpretation of the Cramer-Rao Lower Bound](na)<br/>
 >> [Back-propagation: a dynamic programming perspective](na)<br/>
 >> [Asymptotic difference between ML and empirical ML](https://github.com/idnavid/misc/blob/master/LawOfIterLogs.ipynb)<br/>
 >> [An interesting example on the short-comings of ML](https://github.com/idnavid/misc/blob/master/ML_interesting_example.pdf)<br/>
