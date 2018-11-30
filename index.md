@@ -44,7 +44,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 
 ------
 ### Notes
->> [Back-propagation: a dynamic programming perspective](na)<br/>
+>> [Back-propagation: a dynamic programming perspective](https://github.com/idnavid/misc/blob/master/slides_backprop.ipynb)<br/>
 >> [Asymptotic difference between ML and empirical ML](https://github.com/idnavid/misc/blob/master/LawOfIterLogs.ipynb)<br/>
 >> [An interesting example on the short-comings of ML](https://github.com/idnavid/misc/blob/master/ML_interesting_example.pdf)<br/>
 >> [Canonical correlation coefficients as a measure of affine similarity](https://github.com/idnavid/misc/blob/master/comparingSimilarityMeasures.ipynb)<br/>
