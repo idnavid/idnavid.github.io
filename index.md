@@ -4,7 +4,7 @@ title:
 subtitle:  
 ---
 **<span style="font-size:larger;">Navid Shokouhi</span>**<br/>
-*<sup>Postdoctoral Researcher, The University of Melbourne</sup>*
+*<sup>Researcher</sup>*
 
 My work focuses on Signal Processing from a probabilistic percpective, also known as *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using statistical signal processing ideas.
 
