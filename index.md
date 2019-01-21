@@ -13,14 +13,16 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 ------
 
 ### Projects
-> **Recent**<br/>
+>**Recent**<br/>
+>> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid">Sparse Canonical Correlation Analysis -- (private)</a><br/>
+
+> **2018**<br/>
+>> <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis</a><br/>
 >> <a href="https://github.com/idnavid/dictionary_learning">Sparse representation using Dictionary Learning</a><br/>
 >> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw">Concurrent Spatial and Temporal alignment of multimodal data -- (private)</a><br/>
->> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid">Sparse Canonical Correlation Analysis -- (private)</a><br/>
 >> <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
 >> <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
 >> <a href="https://github.com/idnavid/multispeaker_openset">Multi-target Speaker Identification -- (private)</a><br/>
->> <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis -- (private)</a><br/>
 
 > **2017**<br/>
 >> <a href="https://github.com/idnavid/RBFadapt">RBF Neural Networks -- (private)</a><br/>
