@@ -31,7 +31,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >> Speaker Diarization<a href="https://github.com/idnavid/spkr_diarization"> (python toolbox)</a><br/>
 
 
-> **Previous Work (2011-2016)**<br/>
+### Previous Work (2011-2016)
 PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi-Speaker Signals. A link to my dissertation can be found  <a href="https://github.com/idnavid/dissertation/blob/master/SHOKOUHI-DISSERTATION-2017-rev3.pdf">here.</a><br/>
    Some code excerpts from my PhD work:
    Overlapped Speech Detection <a href="https://github.com/idnavid/pyknograms">(code)</a> and <a href="https://ieeexplore.ieee.org/document/7872488/">(paper)</a><br/>
