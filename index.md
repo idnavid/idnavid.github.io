@@ -17,18 +17,18 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid">Sparse Canonical Correlation Analysis -- (private)</a><br/>
 
 > **2018**<br/>
->> <a href="https://github.com/idnavid/sparse_PCA">Sparse Principal Component Analysis</a><br/>
->> <a href="https://github.com/idnavid/dictionary_learning">Sparse representation using Dictionary Learning</a><br/>
->> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw">Concurrent Spatial and Temporal alignment of multimodal data -- (private)</a><br/>
->> <a href="https://github.com/idnavid/selectOrder_public">model order selection for CCA</a><br/>
->> <a href="https://github.com/idnavid/robustHRF">Robust HRF estimation (fNIRS) -- (private)</a><br/>
->> <a href="https://github.com/idnavid/multispeaker_openset">Multi-target Speaker Identification -- (private)</a><br/>
+>> Sparse Principal Component Analysis<a href="https://github.com/idnavid/sparse_PCA"> (code)</a><a href="https://ieeexplore.ieee.org/abstract/document/8626121/"> (paper)</a><br/>
+>> Sparse representation using Dictionary Learning<a href="https://github.com/idnavid/dictionary_learning"> (slides)</a><br/>
+>> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw">Concurrent Spatial and Temporal alignment of multimodal data -- private repo</a><br/>
+>> model order selection for CCA <a href="https://github.com/idnavid/selectOrder_public"> (code)</a><br/>
+>> Robust HRF estimation (fNIRS)<a href="https://github.com/idnavid/robustHRF"> (private repo)</a><br/>
+>> Multi-target Speaker Identification <a href="https://github.com/idnavid/multispeaker_openset"> (private repo)</a><br/>
 
 > **2017**<br/>
->> <a href="https://github.com/idnavid/RBFadapt">RBF Neural Networks -- (private)</a><br/>
->> <a href="https://github.com/idnavid/selectOrder_public">model order selection</a><br/>
->> <a href="http://ieeexplore.ieee.org/document/8290677/">2D-Whitening for face recognition</a><br/>
->> <a href="https://github.com/idnavid/spkr_diarization">Speaker Diarization (python toolbox)</a><br/>
+>> RBF Neural Networks <a href="https://github.com/idnavid/RBFadapt">(private repo)</a><br/>
+>> Model order selection<a href="https://github.com/idnavid/selectOrder_public"> (code)</a><a href="https://ieeexplore.ieee.org/abstract/document/8444453"> (paper)</a><br/>
+>> 2D-Whitening for face recognition<a href="http://ieeexplore.ieee.org/document/8290677/"> (paper)</a><br/>
+>> Speaker Diarization<a href="https://github.com/idnavid/spkr_diarization"> (python toolbox)</a><br/>
 
 
 > **Previous Work (2011-2016)**<br/>
