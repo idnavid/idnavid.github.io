@@ -19,8 +19,8 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 > **2018**<br/>
 >> Sparse Principal Component Analysis<a href="https://github.com/idnavid/sparse_PCA"> (code)</a><a href="https://ieeexplore.ieee.org/abstract/document/8626121/"> (paper)</a><br/>
 >> Sparse representation using Dictionary Learning<a href="https://github.com/idnavid/dictionary_learning"> (slides)</a><br/>
->> <a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw">Concurrent Spatial and Temporal alignment of multimodal data -- private repo</a><br/>
->> model order selection for CCA <a href="https://github.com/idnavid/selectOrder_public"> (code)</a><br/>
+>> Concurrent Spatial and Temporal alignment of multimodal data<a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw"> (private repo)</a><br/>
+>> Model order selection for CCA <a href="https://github.com/idnavid/selectOrder_public"> (code)</a><br/>
 >> Robust HRF estimation (fNIRS)<a href="https://github.com/idnavid/robustHRF"> (private repo)</a><br/>
 >> Multi-target Speaker Identification <a href="https://github.com/idnavid/multispeaker_openset"> (private repo)</a><br/>
 
