@@ -25,7 +25,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >> Multi-target Speaker Identification <a href="https://github.com/idnavid/multispeaker_openset"> (private repo)</a><br/>
 
 > **2017**<br/>
->> RBF Neural Networks <a href="https://github.com/idnavid/RBFadapt">(private repo)</a><br/>
+>> RBF Neural Networks <a href="https://github.com/idnavid/RBFadapt">(code)</a><br/>
 >> Model order selection<a href="https://github.com/idnavid/selectOrder_public"> (code)</a><a href="https://ieeexplore.ieee.org/abstract/document/8444453"> (paper)</a><br/>
 >> 2D-Whitening for face recognition<a href="http://ieeexplore.ieee.org/document/8290677/"> (paper)</a><br/>
 >> Speaker Diarization<a href="https://github.com/idnavid/spkr_diarization"> (python toolbox)</a><br/>
