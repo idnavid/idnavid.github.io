@@ -14,6 +14,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ### Projects
 >**Recent**<br/>
+>> Published work on adaptive robust NN trianing <a href="https://ieeexplore.ieee.org/document/8917570">(paper)</a><br/>
 >> CCA dimensionality estimation <a href="https://ieeexplore.ieee.org/abstract/document/8788515"> (paper)</a><br/>
 >> Sparse Canonical Correlation Analysis<a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid"> (private repo)</a><br/>
 
