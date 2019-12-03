@@ -15,11 +15,11 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 ### Projects
 >**Recent**<br/>
 >> Published work on adaptive robust NN trianing <a href="https://ieeexplore.ieee.org/document/8917570">(paper)</a><a href="https://codeocean.com/capsule/6511011/tree/v1">(codeocean)</a><br/>
->> CCA dimensionality estimation <a href="https://ieeexplore.ieee.org/abstract/document/8788515"> (paper)</a><br/>
+>> CCA dimensionality estimation <a href="https://ieeexplore.ieee.org/abstract/document/8788515"> (paper)</a><a href="https://codeocean.com/capsule/4744059/tree/v1">(codeocean)</a><br/>
 >> Sparse Canonical Correlation Analysis<a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid"> (private repo)</a><br/>
 
 > **2018**<br/>
->> Sparse Principal Component Analysis<a href="https://github.com/idnavid/sparse_PCA"> (code)</a><a href="https://ieeexplore.ieee.org/abstract/document/8626121/"> (paper)</a><a href="https://codeocean.com/capsule/2626712/tree"> (codeocean)</a><br/>
+>> Sparse Principal Component Analysis<a href="https://github.com/idnavid/sparse_PCA"> (code)</a><a href="https://ieeexplore.ieee.org/abstract/document/8626121/"> (paper)</a><a href="https://codeocean.com/capsule/2626712/tree/v1"> (codeocean)</a><br/>
 >> Sparse representation using Dictionary Learning<a href="https://github.com/idnavid/dictionary_learning"> (slides)</a><br/>
 >> Concurrent Spatial and Temporal alignment of multimodal data<a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw"> (private repo)</a><br/>
 >> Model order selection for CCA <a href="https://github.com/idnavid/selectOrder_public"> (code)</a><br/>
