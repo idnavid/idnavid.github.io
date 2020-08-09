@@ -14,6 +14,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ### Projects
 >**Recent**<br/>
+>> Causal Bayesian Networks: Specifically focused on Causal Discovery Algorithms. 
 >> Boosting: including aspects related to PAC learning, AdaBoost, and the maximum likelihood perspective of Boosting.  
 
 >**2019**<br/>
