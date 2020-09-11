@@ -65,6 +65,10 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 >> [Note on CCA: geometric interpretations](https://github.com/idnavid/misc/blob/master/cca_geometricinterp.ipynb)<br/>
 
 ------
+### Interesting Reading Material
+>> [This statement is false.](https://en.wikipedia.org/wiki/Liar_paradox)<br/>
+
+------
 #### &nbsp;&nbsp;Other<br/>
 >> Online Stack Exchange activity<br/>
 >> <a href="https://stackexchange.com/users/1800970/idnavid?tab=accounts"><img src="https://stackexchange.com/users/flair/1800970.png" width="180" height="48" alt="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for idnavid on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> <br/>
