@@ -27,8 +27,8 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >> Sparse representation using Dictionary Learning<a href="https://github.com/idnavid/dictionary_learning"> (slides)</a><br/>
 >> Concurrent Spatial and Temporal alignment of multimodal data<a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid/code/pycode/ctw"> (private repo)</a><br/>
 >> Model order selection for CCA <a href="https://github.com/idnavid/selectOrder_public"> (code)</a><br/>
->> Estimating Dimensionality for PCA <a href="[https://github.com/idnavid/selectOrder_public](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DHxzPt8AAAAJ&sortby=pubdate&citation_for_view=DHxzPt8AAAAJ:IWHjjKOFINEC)"> (paper)</a><br/> <a href="https://github.com/idnavid/selectOrder_public"> (code)</a><br/>
->> Estimating Dimensionality for ICA <a href="[https://github.com/idnavid/selectOrder_public](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DHxzPt8AAAAJ&sortby=pubdate&citation_for_view=DHxzPt8AAAAJ:IWHjjKOFINEC)"> (paper)</a><br/> <a href="https://github.com/idnavid/selectOrder_public"> (code)</a><br/>
+>> Estimating Dimensionality of PCA <a href="https://ieeexplore.ieee.org/abstract/document/8444453/">(paper)</a><a href="https://github.com/idnavid/selectOrder_public">(codeocean)</a><br/>
+>> Estimating Dimensionality of ICA <a href="https://ieeexplore.ieee.org/abstract/document/8444453/">(paper)</a><a href="https://github.com/idnavid/selectOrder_public">(codeocean)</a><br/>
 >> Robust HRF estimation (fNIRS)<a href="https://github.com/idnavid/robustHRF"> (private repo)</a><br/>
 >> Multi-target Speaker Identification <a href="https://github.com/idnavid/multispeaker_openset"> (private repo)</a><br/>
 
