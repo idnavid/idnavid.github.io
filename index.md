@@ -4,18 +4,31 @@ title:
 subtitle:  
 ---
 **<span style="font-size:larger;">Navid Shokouhi</span>**<br/>
-*<sup>Researcher</sup>*
+*<sup>ML Operations and Research</sup>*
 
-My work focuses on Signal Processing from a probabilistic percpective, also known as *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using statistical signal processing ideas.
+My work focuses on probabilistic percpectives towards data, also known as *Machine Learning*, *Pattern Recognition*, and *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using information theoretic and statistical signal processing ideas. 
 
-Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some of the repositories may be private, as their related papers are still pending publication. However, I'm happy to share source code if contacted. Feel free to reach out if you would like to access some of the unpublished material from the list below.
+I am also interested in large scale productionization of Machine Learning models -- formerly known as ML Ops. ML Ops/Operations covers a wide range of academic concepts, including Software Design (aka design patterns), Robustness, Asymptotic analysis, and many other examples. 
+
+Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some (more recent) repositories may be private, as they're related papers that are still pending publication or part of my employers intellectual property. However, I'm happy to discuss concepts and collaborations if contacted. Feel free to reach out if you would like to query some of the unpublished material from the list below and I'll do my best to facilitate. 
 
 ------
 
 ### Projects
->**Recent**<br/>
+>**2023**
+>> Software Design Patterns for Robust Machine Learning Productionization.  
+
+>**2022**
+>> Transfer learning for Human Activity Recognition.
+>> Step Count Accuracy estimation for Parkinson's Disease patients <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2022.904895/full">(paper)
+
+
+>**2021**<br/>
+>> Model monitoring through AWS Lambda. 
+
+>**2020**<br/>
 >> Causal Bayesian Networks: Specifically focused on Causal Discovery Algorithms. <br/>
->> Boosting: PAC learning, AdaBoost, and relation to maximum likelihood.  
+>> Boosting: PAC learning, AdaBoost, and relation to maximum likelihood.
 
 >**2019**<br/>
 >> Published work on adaptive robust NN trianing <a href="https://ieeexplore.ieee.org/document/8917570">(paper)</a><a href="https://codeocean.com/capsule/6511011/tree/v1">(codeocean)</a><br/>
