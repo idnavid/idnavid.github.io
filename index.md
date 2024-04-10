@@ -19,12 +19,12 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 >> Software Design Patterns for Robust Machine Learning Productionization (talk).  
 
 >**2022**
->> Transfer learning for Human Activity Recognition.
->> Step Count Accuracy estimation for Parkinson's Disease patients <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2022.904895/full">(paper)
+>> Transfer learning for Human Activity Recognition. <br/>
+>> Step Count Accuracy estimation for Parkinson's Disease patients <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2022.904895/full">(paper) <br/>
 
 
 >**2021**<br/>
->> Model monitoring through AWS Lambda. 
+>> Model monitoring through AWS Lambda (code). <br/>
 
 >**2020**<br/>
 >> Causal Bayesian Networks: Specifically focused on Causal Discovery Algorithms. <br/>
