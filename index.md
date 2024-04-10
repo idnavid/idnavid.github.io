@@ -5,7 +5,6 @@ subtitle:
 ---
 **<span style="font-size:larger;">Navid Shokouhi</span>**<br/>
 *<sup>ML Operations and Research</sup>*
-*<sup>navidshokouhi68@gmail.com</sup>*
 
 
 
@@ -13,7 +12,7 @@ My work focuses on probabilistic percpectives towards data, also known as *Machi
 
 Since 2019, I have also become interested in large-scale productionization of Machine Learning models -- conventionally known as ML Ops. Although mostly seen as an industry-driven endeavor, ML Ops covers a wide range of academic concepts, including Software Design Patterns, Robustness, Asymptotic Analysis, and many other well-studied themes all within a practical approach towards building modern software systems. 
 
-Below is a list of my ongoing projects and interests as well as some of my previous work. Many projects listed here come with source code. Some (more recent) repositories may be private, as their respective papers or source material are either pending publication or are part of my employer's intellectual property. However, I'm happy to discuss concepts and collaborations if contacted. Feel free to reach out if you have any queries regarding some of the unpublished material from the list below and I'll do my best to facilitate. 
+Below is a list of my ongoing projects and interests as well as some of my previous work. Many projects listed here come with source code. Some (more recent) repositories may be private, as their respective papers or source material are either pending publication or are part of my employer's intellectual property. However, I'm happy to discuss concepts and collaborations if contacted. 
 
 ------
 
