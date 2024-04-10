@@ -25,14 +25,14 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 
 >**2021**<br/>
->> Model monitoring through AWS Lambda (code). <br/>
+>> Model monitoring through Microservices: An AWS Lambda Approach (code). <br/>
 
 >**2020**<br/>
 >> Causal Bayesian Networks: Specifically focused on Causal Discovery Algorithms. <br/>
 >> Boosting: PAC learning, AdaBoost, and their relation to maximum likelihood.
 
 >**2019**<br/>
->> Published work on adaptive robust Neural Network trianing via alpha-divergence <a href="https://ieeexplore.ieee.org/document/8917570">(paper)</a><a href="https://codeocean.com/capsule/6511011/tree/v1">(codeocean)</a><br/>
+>> Adaptive robust Neural Network trianing via alpha-divergence <a href="https://ieeexplore.ieee.org/document/8917570">(paper)</a><a href="https://codeocean.com/capsule/6511011/tree/v1">(codeocean)</a><br/>
 >> Canonical Correlation Analysis Dimensionality Estimation <a href="https://ieeexplore.ieee.org/abstract/document/8788515"> (paper)</a><a href="https://codeocean.com/capsule/4744059/tree/v1">(codeocean)</a><br/>
 >> Sparse Canonical Correlation Analysis<a href="https://github.com/idnavid/sparse_CCA/tree/scca_idnavid"> (private repo)</a><br/>
 
