@@ -6,7 +6,7 @@ subtitle:
 **<span style="font-size:larger;">Navid Shokouhi</span>**<br/>
 *<sup>ML Operations and Research</sup>*
 
-My work focuses on probabilistic percpectives towards data, also known as *Machine Learning*, *Pattern Recognition*, and *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using information theoretic and statistical signal processing ideas. 
+My work focuses on probabilistic percpectives towards data, also known as *Machine Learning*, *Pattern Recognition*, and *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using information theoretic and statistical signal processing ideas with a focus on built-for-production models. 
 
 I am also interested in large scale productionization of Machine Learning models -- conventionally known as ML Ops. Although mostly seen as an industry-driven endeavor, ML Ops covers a wide range of academic concepts, including Software Design Patterns (aka design patterns), Robustness, Asymptotic analysis, and many other well-studied themes all within a practical modrn approach to software systems. 
 
