@@ -8,15 +8,15 @@ subtitle:
 
 My work focuses on probabilistic percpectives towards data, also known as *Machine Learning*, *Pattern Recognition*, and *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using information theoretic and statistical signal processing ideas. 
 
-I am also interested in large scale productionization of Machine Learning models -- formerly known as ML Ops. ML Ops/Operations covers a wide range of academic concepts, including Software Design (aka design patterns), Robustness, Asymptotic analysis, and many other examples. 
+I am also interested in large scale productionization of Machine Learning models -- conventionally known as ML Ops. Although mostly seen as an industry-driven endeavor, ML Ops covers a wide range of academic concepts, including Software Design Patterns (aka design patterns), Robustness, Asymptotic analysis, and many other well-studied themes all within a practical modrn approach to software systems. 
 
-Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some (more recent) repositories may be private, as they're related papers that are still pending publication or part of my employers intellectual property. However, I'm happy to discuss concepts and collaborations if contacted. Feel free to reach out if you would like to query some of the unpublished material from the list below and I'll do my best to facilitate. 
+Below is a list of my ongoing projects and some of my previous work. Most projects listed here come with source code. Some (more recent) repositories may be private, as their respective papers or source material that are pending publication or part of my employer's intellectual property. However, I'm happy to discuss concepts and collaborations if contacted. Feel free to reach out if you would like to query regarding some of the unpublished material from the list below and I'll do my best to facilitate. 
 
 ------
 
 ### Projects
 >**2023**
->> Software Design Patterns for Robust Machine Learning Productionization.  
+>> Software Design Patterns for Robust Machine Learning Productionization (talk).  
 
 >**2022**
 >> Transfer learning for Human Activity Recognition.
