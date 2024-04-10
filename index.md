@@ -16,7 +16,8 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 ### Projects
 >**2023**
->> Software Design Patterns for Robust Machine Learning Productionization (talk).  
+>> Software Design Patterns for Robust Machine Learning Productionization (talk). <br/>
+>> Identifying Risk of Falls for People with Parkinson's Disease (submitted). <br/>
 
 >**2022**
 >> Transfer learning for Human Activity Recognition. <br/>
