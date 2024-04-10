@@ -28,7 +28,7 @@ Below is a list of my ongoing projects and some of my previous work. Most projec
 
 >**2020**<br/>
 >> Causal Bayesian Networks: Specifically focused on Causal Discovery Algorithms. <br/>
->> Boosting: PAC learning, AdaBoost, and relation to maximum likelihood.
+>> Boosting: PAC learning, AdaBoost, and their relation to maximum likelihood.
 
 >**2019**<br/>
 >> Published work on adaptive robust NN trianing <a href="https://ieeexplore.ieee.org/document/8917570">(paper)</a><a href="https://codeocean.com/capsule/6511011/tree/v1">(codeocean)</a><br/>
