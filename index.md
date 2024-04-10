@@ -5,6 +5,9 @@ subtitle:
 ---
 **<span style="font-size:larger;">Navid Shokouhi</span>**<br/>
 *<sup>ML Operations and Research</sup>*
+*<sup>navidshokouhi68@gmail.com</sup>*
+
+
 
 My work focuses on probabilistic percpectives towards data, also known as *Machine Learning*, *Pattern Recognition*, and *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using information theoretic and statistical signal processing ideas. 
 
