@@ -66,8 +66,8 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 
 ------
 ### Teaching
->> <a href="https://github.com/VoLKyyyOG/MAST30034_Python">Applied Data Science MAST30034</a>, The Univ. of Melbourne, 2022
->> <a href="https://github.com/idnavid/imageprocessing_elen90076">Image Processing ELEN90076</a>, The Univ. of Melbourne, 2017
+>> <a href="https://github.com/VoLKyyyOG/MAST30034_Python">Applied Data Science MAST30034</a>, The Univ. of Melbourne, 2022 <br/>
+>> <a href="https://github.com/idnavid/imageprocessing_elen90076">Image Processing ELEN90076</a>, The Univ. of Melbourne, 2017 <br/>
 
 
 ------
