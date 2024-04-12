@@ -8,11 +8,10 @@ subtitle:
 
 
 
-My work focuses on probabilistic percpectives towards data, also known as *Machine Learning*, *Pattern Recognition*, and *Statistical Signal Processing*. I'm primarily interested in studying machine learning algorithms using information theoretic and statistical signal processing ideas. 
+I'm a machine learning researcher and practitioner specializing in probabilistic approaches, information theory, and statistical signal processing. My work leverages these techniques to develop innovative machine learning algorithms.  I'm also deeply interested in ML Ops – the robust, scalable productionization of machine learning models, bridging the gap between academic concepts and real-world software systems.
 
-Since 2019, I have also become interested in large-scale productionization of Machine Learning models -- conventionally known as ML Ops. Although mostly seen as an industry-driven endeavor, ML Ops covers a wide range of academic concepts, including Software Design Patterns, Robustness, Asymptotic Analysis, and many other well-studied themes all within a practical approach towards building modern software systems. 
+Here's a look at my current projects, interests, and past work. While some recent code repositories may be private (pending publication or IP reasons), I welcome discussions and potential collaborations.
 
-Below is a list of my ongoing projects and interests as well as some of my previous work. Many projects listed here come with source code. Some (more recent) repositories may be private, as their respective papers or source material are either pending publication or are part of my employer's intellectual property. However, I'm happy to discuss concepts and collaborations if contacted. 
 
 ------
 
