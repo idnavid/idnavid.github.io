@@ -71,6 +71,7 @@ PhD (UT Dallas, 2017) dissertation: Speaker Recognition and Diarization in Multi
 
 ------
 ### Notes
+>> [Kernel interpretation of self-attention Mechanism in Transformer Architectures](https://github.com/idnavid/gpt-practice)
 >> [Back-propagation: a dynamic programming perspective](https://github.com/idnavid/misc/blob/master/slides_backprop.ipynb)<br/>
 >> [Asymptotic difference between ML and empirical ML](https://github.com/idnavid/misc/blob/master/LawOfIterLogs.ipynb)<br/>
 >> [An interesting example on the short-comings of ML](https://github.com/idnavid/misc/blob/master/ML_interesting_example.pdf)<br/>
