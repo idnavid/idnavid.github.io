@@ -8,7 +8,7 @@ subtitle:
 
 
 
-I'm a machine learning researcher and practitioner specializing in probabilistic approaches, information theory, and statistical signal processing. My work leverages these techniques to develop innovative machine learning algorithms.  I'm also deeply interested in ML Ops – the robust, scalable productionization of machine learning models, bridging the gap between academic concepts and real-world software systems.
+I'm a machine learning researcher and practitioner trained in probabilistic approaches, information theory, and statistical learning. My work leverages these skills to develop machine learning algorithms. I'm also deeply interested in ML Ops – the practice of productionizing robust, scalable machine learning software systems.
 
 Here's a look at my current projects, interests, and past work. While some recent code repositories may be private (pending publication or IP reasons), I welcome discussions and potential collaborations.
 
