@@ -16,6 +16,12 @@ Here's a look at my current projects, interests, and past work. While some recen
 ------
 
 ### Projects
+>**2024**
+>> Energy Consumption, Emissions, and Sustainability of the Transformer Architecture for Large Language Models (code). <br/>
+>> Enterprise-wide Responsible AI/ML. <br/>
+>> Software Design Patterns for modern MLOps -- Foundation Models (code)(talk) <br/>
+
+
 >**2023**
 >> Software Design Patterns for Robust Machine Learning Productionization (code)(talk). <br/>
 >> Identifying Risk of Falls for People with Parkinson's Disease (submitted). <br/>
