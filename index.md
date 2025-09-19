@@ -30,7 +30,7 @@ Here's a look at my current projects, interests, and past work. While some recen
 >**2023**
 >> Software Design Patterns for Robust Machine Learning Productionization (code)(talk). <br/>
 >> Identifying Risk of Falls for People with Parkinson's Disease (code). <br/>
->>> Using Retrieval Augmented Generation for enhanced customization of RBAC roles (code)(presentation). <br/>
+>> Using Retrieval Augmented Generation for enhanced customization of RBAC roles (code)(presentation). <br/>
 
 
 >**2022**
