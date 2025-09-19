@@ -17,19 +17,21 @@ Here's a look at my current projects, interests, and past work. While some recen
 
 ### Projects
 >**2025**
->> Orchestration of LLMs and Foundation Models through compound AI systems (code) <br/>
->> Cloud Cost Optimization using human-in-the-loop ML workflows and active learning (code)(tech-report) <br/>
+>> Orchestration of LLMs and Foundation Models through compound AI systems (code). <br/>
+>> Cloud Cost Optimization using human-in-the-loop ML workflows and active learning (code)(tech-report). <br/>
 
 
 >**2024**
 >> Energy Consumption, Emissions, and Sustainability of the Transformer Architecture for Large Language Models (code)(tech-report). <br/>
->> Enterprise-wide Responsible AI/ML. <br/>
->> Software Design Patterns for modern MLOps -- Foundation Models (code)(talk) <br/>
+>> Enterprise-wide Responsible AI/ML (presentation)(tech-report). <br/>
+>> Software Design Patterns for modern MLOps -- Foundation Models (code)(talk). <br/>
 
 
 >**2023**
 >> Software Design Patterns for Robust Machine Learning Productionization (code)(talk). <br/>
 >> Identifying Risk of Falls for People with Parkinson's Disease (code). <br/>
+>>> Using Retrieval Augmented Generation for enhanced customization of RBAC roles (code)(presentation). <br/>
+
 
 >**2022**
 >> Transfer learning for Human Activity Recognition. <br/>
