@@ -182,7 +182,7 @@ prose:
   rooturl: '_posts'
   media: 'img'
   ignore:
-    - 404.html
+    # - 404.html
     - LICENSE
     - feed.xml
     - _config.yml
