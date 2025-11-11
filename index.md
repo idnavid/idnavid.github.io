@@ -19,6 +19,8 @@ Here's a look at my current projects, interests, and past work. While some recen
 >**2025**
 >> Orchestration of LLMs and Foundation Models through compound AI systems (code). <br/>
 >> Cloud Cost Optimization using human-in-the-loop ML workflows and active learning (code)(tech-report). <br/>
+>> Stable-LLM: A robust architecture for enterprise-grade LLM consumption (tech-report). <br/>
+
 
 
 >**2024**
