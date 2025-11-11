@@ -24,7 +24,7 @@ Here's a look at my current projects, interests, and past work. While some recen
 
 
 >**2024**
->> Energy Consumption, Emissions, and Sustainability of the Transformer Architecture for Large Language Models (code)(tech-report). <br/>
+>> Consumption and Sustainability of the Transformer Architecture in LLMs (code)(tech-report). <br/>
 >> Enterprise-wide Responsible AI/ML (presentation)(tech-report). <br/>
 >> Software Design Patterns for modern MLOps -- Foundation Models (code)(talk). <br/>
 
